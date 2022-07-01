@@ -1,8 +1,9 @@
 # lab4recuperativo
 ##Flujo de funcionamiento en consola
-#python cifradosimetrico.py
-#ingresar texto a cifrar
-#ingresar llave
-#ingresar el resultado de lo anterior
-#ingresar llave
-#texto claro
+
+#python cifradosimetrico.py\n
+#ingresar texto a cifrar\n
+#ingresar llave\n
+#ingresar el resultado de lo anterior\n
+#ingresar llave\n
+#texto claro\n
